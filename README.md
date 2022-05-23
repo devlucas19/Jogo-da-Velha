@@ -6,7 +6,7 @@
 
 <h2>Ilustrações</h2>
 
-<img src="video//Ilustration.gif" height="300px">
+<img src="images/Ilustration.gif" height="300px">
 
 <h2>Como Jogar:</h2>
 
